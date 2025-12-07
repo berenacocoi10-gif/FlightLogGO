@@ -1,0 +1,11 @@
+{
+  "builds": [
+    {
+      "src": "src/client/package.json",
+      "use": "@vercel/next"
+    }
+  ],
+  "github": {
+    "silent": true
+  }
+}
